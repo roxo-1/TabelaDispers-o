@@ -60,6 +60,8 @@ public class tabelaDispersao{
             System.out.println("O elemento não foi encontrado!");
         }
     }
+
+    
     
     public static void main(String[] args){
         tabelaDispersao tabela = new tabelaDispersao();
